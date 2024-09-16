@@ -8,6 +8,10 @@ A virtual keyboard application that uses hand gestures to input text. The applic
 - Virtual keyboard with keys and special buttons (Space, Delete).
 - Real-time feedback and interaction.
 
+## Demo
+
+Watch a demonstration of the virtual painter application on YouTube: [Virtual Keyboard Demo](https://youtu.be/PfJH7oaAYJQ)
+
 ## Prerequisites
 
 Ensure you have the following installed:
